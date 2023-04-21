@@ -1,0 +1,13 @@
+DONE:
+card shuffle
+distribute
+turn based game
+draw card or use valid card
+implemented wild, +2, +4
+implemented reverse, skip
+give names to players
+deck privacy
+when winning, add to a list, and in end, display list
+
+TO DO:
+save game
